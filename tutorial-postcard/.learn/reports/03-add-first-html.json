@@ -1,0 +1,21 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 2,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "The file index.html should exist",
+      "status": "passed"
+    },
+    {
+      "title": "Add the following HTML to your index.html: Hello from <strong>Earth</strong>",
+      "status": "passed"
+    }
+  ]
+}

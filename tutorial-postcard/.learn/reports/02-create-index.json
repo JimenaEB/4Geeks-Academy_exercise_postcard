@@ -1,0 +1,17 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 1,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "The file index.html should exist",
+      "status": "passed"
+    }
+  ]
+}

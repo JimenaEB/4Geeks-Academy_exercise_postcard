@@ -1,0 +1,41 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 7,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Make sure you have your index.html",
+      "status": "passed"
+    },
+    {
+      "title": "Make sure you created the styles.css file",
+      "status": "passed"
+    },
+    {
+      "title": "Make sure your index.html contains the <link> tag",
+      "status": "passed"
+    },
+    {
+      "title": "Create an image inside the .postcard-header div",
+      "status": "passed"
+    },
+    {
+      "title": "Create an heading 1 inside the .postcard-header div",
+      "status": "passed"
+    },
+    {
+      "title": "The h1 inside postcard header should say 'My Postcard'",
+      "status": "passed"
+    },
+    {
+      "title": "The image tag should contain the given URL as src, E.g: <img src='the_image_src_goes_here' />",
+      "status": "passed"
+    }
+  ]
+}

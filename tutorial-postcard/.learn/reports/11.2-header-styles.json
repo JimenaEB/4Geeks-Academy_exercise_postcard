@@ -1,0 +1,21 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 2,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "In your CSS create a .postcard-header class that will apply styles to the .postcard-header div",
+      "status": "passed"
+    },
+    {
+      "title": "The .postcard-header div must have a display:flex to allow its childs to display horizontally",
+      "status": "passed"
+    }
+  ]
+}

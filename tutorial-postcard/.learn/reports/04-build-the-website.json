@@ -1,0 +1,21 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 2,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Build your website using the build icon on the top of the instructions",
+      "status": "passed"
+    },
+    {
+      "title": "Add the following HTML to your index.html: Hello from <strong>Earth</strong>",
+      "status": "passed"
+    }
+  ]
+}
