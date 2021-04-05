@@ -1,0 +1,29 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 4,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Make sure you have your index.html",
+      "status": "passed"
+    },
+    {
+      "title": "Make sure you created the styles.css file",
+      "status": "passed"
+    },
+    {
+      "title": "The name of the file is styles.css in plural",
+      "status": "passed"
+    },
+    {
+      "title": "Make sure your styles.css contains the expected style",
+      "status": "passed"
+    }
+  ]
+}

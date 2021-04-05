@@ -1,0 +1,37 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 6,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Make sure you have your index.html",
+      "status": "passed"
+    },
+    {
+      "title": "Make sure you created the styles.css file",
+      "status": "passed"
+    },
+    {
+      "title": "Make sure your index.html contains the <link> tag",
+      "status": "passed"
+    },
+    {
+      "title": "Create a div with class postcard-header as child of .postcard",
+      "status": "passed"
+    },
+    {
+      "title": "Create a div with class postcard-body as child of .postcard",
+      "status": "passed"
+    },
+    {
+      "title": "Create a div with class postcard-footer as child of .postcard",
+      "status": "passed"
+    }
+  ]
+}

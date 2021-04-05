@@ -1,0 +1,41 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 7,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Make sure you have your index.html",
+      "status": "passed"
+    },
+    {
+      "title": "The website <body></body> tags must not be empty",
+      "status": "passed"
+    },
+    {
+      "title": "Your <body> and or </body> tags should not be duplicated",
+      "status": "passed"
+    },
+    {
+      "title": "There should be at least one <div> with class postcard inside <body> tag and the tag body tag must be inside the <html> tag",
+      "status": "passed"
+    },
+    {
+      "title": "Make sure there is a div with the class postcard",
+      "status": "passed"
+    },
+    {
+      "title": "Make sure the div with class postcard is inside the body tags",
+      "status": "passed"
+    },
+    {
+      "title": "The tag </html> should be the last character in your code",
+      "status": "passed"
+    }
+  ]
+}

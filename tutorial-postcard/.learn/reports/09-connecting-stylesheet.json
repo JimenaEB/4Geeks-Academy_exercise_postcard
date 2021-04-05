@@ -1,0 +1,37 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 6,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Make sure you have your index.html",
+      "status": "passed"
+    },
+    {
+      "title": "Make sure you created the styles.css file",
+      "status": "passed"
+    },
+    {
+      "title": "Make sure your styles.css contains the expected style",
+      "status": "passed"
+    },
+    {
+      "title": "Make sure your index.html contains the <head> tag",
+      "status": "passed"
+    },
+    {
+      "title": "Make sure the <link> tag is a child (inside) of the <head></head> tags",
+      "status": "passed"
+    },
+    {
+      "title": "Make sure the <link> tag href property is pointing to styles.css",
+      "status": "passed"
+    }
+  ]
+}
